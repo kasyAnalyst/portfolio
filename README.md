@@ -9,7 +9,7 @@ Feel free to dive in and see what I’ve been building!
 This project demonstrates an end-to-end data engineering pipeline designed for incremental processing of change data from an operational database. Leveraging AWS-native services, the pipeline captures real-time changes, transforms the data, and loads it into an analytics-ready Redshift data warehouse. This enables efficient, scalable, and near real-time data warehousing using CDC (Change Data Capture) patterns.
 
 * Technologies used:
-Python, AWS Glue, AWS Step Functions, AWS Lambda, AWS DMS, Amazon Redshift, Amazon S3, VPC, AWS CloudFormation.
+Python, AWS Glue, AWS Step Functions, AWS Lambda, AWS DMS, Amazon Redshift, Amazon S3, VPC, AWS CloudFormation and AWS QuickSight.
 * Final Results: [Dashboard With AWS Quiksight](https://drive.google.com/file/d/1ls5qioUdlYjd_Z1LnyVEyHbSm9Laymit/view?usp=sharing)
 ##
 
